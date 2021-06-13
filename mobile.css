@@ -1,0 +1,422 @@
+@media (min-width: 375px) {
+    .container-page2, .container-2{
+        flex-direction: column;
+    }
+
+    #page-2 img {
+        width: 300px;
+    }
+    #page-2 hr {
+        margin:8px auto;
+    }
+    .container-page2 h1, .container-2 h1 {
+        font-size: 20px;
+    }
+
+    .container-page2 p, .container-2 p{
+        font-size: 15px;
+    } 
+    .btn-1 {
+        padding-right: 100px;
+    }
+    #page-3 {
+        height: 865px !important;
+    }
+    #page-3  .container-3 {
+        height: 865px;
+    }
+    .container-3 .about-h1 {
+        padding-top: 20px;
+    }
+
+    .container-t {
+        padding-top: 50px;
+    }
+    .about {
+        text-align: left;
+        margin-left: 5px;
+    }
+    .about img {
+        display: none;
+    }
+
+    #page-4 form p {
+        padding: 0px;  
+    }
+
+    #page-4 form {
+       padding-top: 100px;
+    }
+
+    #page-4 .btn button {
+        width: 65px;
+    }
+    #page-4 hr {
+        width: 50px;
+        margin-left: 150px;
+    }
+
+    #page-4 h1 {
+        padding-left: 0px;
+    }
+    #footer p {
+        font-size: 13px;
+    }
+
+    #page-2 span {
+       display: flex;
+       text-align: center;
+       margin-left: 120px;
+    }
+}
+
+@media (max-width: 360px) {
+
+    .container-page2, .container-2{
+        flex-direction: column;
+    }
+
+    #page-2 img {
+        width: 300px;
+    }
+    #page-2 hr {
+        margin:8px auto;
+    }
+    .container-page2 h1, .container-2 h1 {
+        font-size: 20px;
+    }
+
+    .container-page2 p, .container-2 p{
+        font-size: 15px;
+    } 
+    .btn-1 {
+        padding-right: 100px;
+    }
+    #page-3 {
+        height: 865px !important;
+    }
+    #page-3  .container-3 {
+        height: 865px;
+    }
+    .container-3 .about-h1 {
+        padding-top: 20px;
+    }
+
+    .container-t {
+        padding-top: 50px;
+    }
+    .about {
+        text-align: left;
+        margin-left: 5px;
+    }
+    .about img {
+        display: none;
+    }
+
+    #page-4 form p {
+      padding-right: 20px;
+
+    }
+
+    #page-4 .btn button {
+        width: 65px;
+    }
+    #page-4 hr {
+        width: 50px;
+        margin-left: 150px;
+    }
+
+    #page-4 h1 {
+        padding-left: 0px;
+    }
+    #footer p {
+        font-size: 13px;
+    }
+
+    #page-2 span {
+       display: flex;
+       text-align: center;
+       margin-left: 120px;
+    }
+
+    #page-4 form {
+        padding-top: 20px;
+    }
+}
+  
+
+@media (max-width: 320px) {
+    #page-1 .container h1 {
+        font-size: 40px;
+    }
+
+    #page-1 .btn-1 {
+        padding-right: 80px;
+    }
+
+    #page-1 p {
+        font-size: 13px;
+    }
+
+    #page-3 .about-h1{
+       padding: 0px;
+    }
+    .container-3 {
+        padding: 0px;
+        height: 900px !important;
+    }
+    .container-t {
+        padding-top: 10px;
+    }
+    #page-3{
+        height: 900px !important;
+    }
+    #page-4 .btn button {
+        width: 65px;
+    }
+
+    #page-4 {
+        height: 500px;
+    }
+
+    .container-t h1 {
+        font-size: 20px;
+    }
+  
+}
+
+@media (min-width: 411px) {
+    #page-4 form {
+    padding-top: 100px;
+    }
+
+    #page-4 form p {
+        width: 358px;
+    }
+    #page-2 .container-page2,  #page-2 .container-2 {
+        flex-direction: column;
+    }
+
+    #page-2 .container-page2 img,  #page-2 .container-2 img {
+        width: 350px;
+    }
+    .about-h1 {
+        font-size: 2rem;
+    }
+
+    .btn-1 a {
+        padding: 10px;
+        margin-left: 150px;
+    }
+    .about img {
+        display: none;
+    }
+    #page-4 hr {
+        margin-left: 180px;
+    }
+    /* #page-4 {
+        padding-top: 10px;
+    } */
+
+    #page-4 .btn button {
+        width: 65px;
+    }
+}
+
+@media (min-width: 414px) {
+    #page-3 {
+        height: 800px;
+    }
+    #page-4  form{
+        padding-top: 20px;
+    }
+}
+
+
+
+
+@media (min-width: 768px) {
+
+    #page-1 .logo {
+        font-size: 30px;
+    }
+
+    #page-1 .header-1 h1 {
+            font-size: 4.5rem;
+           
+    }
+
+    #page-1 .header-1 p {
+        font-size: 1.3rem;
+    }
+    #page-1 .header-1 .btn-1  {
+        font-size: 25px;
+    }
+
+    #page-2 .container-page2, #page-2 .container-2 {
+        flex-direction: row;
+       
+    }
+    #page-2 .container-page2 span {
+        padding-left: 180px;
+    }
+    #page-2 img {
+        width: 300px;
+    }
+    #page-3 img {
+        height: 700px;
+        width: 250px;
+        margin: 10px;
+    }
+    
+    .about h1 {
+        font-size: 1.5rem;
+    }
+    .about p {
+        font-size: 1.1rem;
+    }
+
+    #page-3 .about-h1 {
+        font-size: 2rem;
+    }
+    
+    #page-4  h1 {
+        font-size: 2rem;
+    }
+
+    #page-4 hr {
+        width: 100px;
+        padding:auto;
+        margin: auto;
+        margin-left: 320px !important;
+    }
+
+    #page-4 form p {
+        padding-right: 0px;
+        margin-left: 140px;
+        font-size: 1.4rem;
+    
+    }
+    #page-4 .form-group label {
+        font-size: 1.2rem;
+    }
+
+    #page-4 {
+        /* padding-top: 10px; */
+        height: 550px;
+    }
+    #page-4 form {
+        padding-top: 10px;
+    }
+
+    #page-4 .form-group input {
+        padding: 10px;
+    }
+
+    #page-4 .btn button {
+        width: 100px;
+        font-size: 20px;
+    }
+
+    #footer p {
+        font-size: 20px;
+        padding-top: 0px;
+    }
+}
+
+
+@media (min-width: 540px) {
+    
+    #page-1 .logo {
+        font-size: 20px;
+    }
+
+    #page-1 .header-1 h1 {
+            font-size: 3rem;
+           
+    }
+
+    #page-1 .header-1 p {
+        font-size: 15px;
+    }
+    #page-1 .header-1 .btn-1 a {
+        font-size: 20px;
+     
+    }
+
+    #page-2 .container-page2, #page-2 .container-2 {
+        flex-direction: column;
+       
+    }
+
+    #page-2 img {
+        width: 300px;
+    }
+
+    #page-2 h1, #page-2 .heading-2 h1 {
+        font-size: 1.8rem;
+    }
+
+    #page-2 p {
+        font-size: 1.3rem;
+    }
+    #page-3 img {
+        height: 700px;
+        width: 250px;
+        margin: 10px;
+        padding-top: 200px;
+    }
+    #page-3, .container-3 {
+        height: 1450px;
+    }
+    .about h1 {
+        font-size: 1.5rem;
+    }
+    .about p {
+        font-size: 1.1rem;
+    }
+
+    #page-3 .about-h1 {
+        font-size: 2rem;
+    }
+    
+    #page-4  h1 {
+        font-size: 2rem;
+    }
+
+    #page-4 hr {
+        width: 100px;
+        margin: 10px 220px;
+    }
+
+    #page-4 form p {
+   
+        font-size: 1.4rem;
+    
+    }
+    #page-4 .form-group label {
+        font-size: 1.2rem;
+    }
+
+    #page-4 {
+      
+        height: 600px;
+    }
+    #page-4 form {
+        padding-top: 10px;
+    }
+
+    #page-4 .form-group input {
+        padding: 10px;
+    }
+
+    #page-4 .btn button {
+        width: 100px;
+        font-size: 20px;
+    }
+
+    #footer p {
+        font-size: 20px;
+        padding-top: 0px;
+    }
+}
